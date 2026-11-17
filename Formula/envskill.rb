@@ -3,8 +3,8 @@ class Envskill < Formula
 
   desc "Least-privilege environment variable bridge for AI coding agents"
   homepage "https://github.com/buhaistrikalo/envskill"
-  url "https://github.com/buhaistrikalo/envskill/releases/download/v0.3.0/envskill-0.3.0-py3-none-any.whl"
-  sha256 "f3f7aba5255f823c99571ec6ffb47c9a3ad61acf72e264bed33ea834a562fb17"
+  url "https://github.com/buhaistrikalo/envskill/releases/download/v0.4.2/envskill-0.4.2-py3-none-any.whl"
+  sha256 "7806c9361308bd2933abb85a028ade114ca9939ea2da2b6429e474b4a4b1cc76"
   license "MIT"
 
   depends_on "python@3.13"
